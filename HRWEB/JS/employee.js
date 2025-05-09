@@ -1,0 +1,1 @@
+const employee_link = https://solid-eureka-7vw65w9rp4x7hrrw-6006.app.github.dev/employee;
